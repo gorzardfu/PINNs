@@ -1,4 +1,4 @@
-GORZARDFU EDITION!!!
+# GORZARDFU EDITION!!!
 
 # [Physics Informed Neural Networks](https://maziarraissi.github.io/PINNs/)
 
